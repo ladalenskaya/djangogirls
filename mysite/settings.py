@@ -25,7 +25,7 @@ SECRET_KEY = '_bi@80kn=!xkkr6as0v&$8e8*-@@d8x=o_o78sjp$@n#64o0g^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Lada.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'Lada.pythonanywhere.com']
 
 
 # Application definition
